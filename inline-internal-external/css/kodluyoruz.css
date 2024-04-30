@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    font-family: Arial;
+    font-style: oblique;
+
+
+}
+
+h2 {
+    color: purple; 
+    font-size: 54px;
+}
+
+p {
+
+    color: rgb(52, 127, 124);
+    font-size: 40px;
+}
